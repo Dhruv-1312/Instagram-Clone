@@ -3,7 +3,7 @@
  
  Additionally, the app features real-time chat functionality, allowing users to commence conversations with any other connected user. The chat rooms are designed with a distinctive user interface, ensuring clarity and preventing confusion about the source of each message.
 
- Flutter packages that are used are:
+ Flutter packages that are used are: 
   firebase_core: ^2.13.1
   firebase_auth: ^4.6.2
   cloud_firestore: ^4.8.0
