@@ -15,7 +15,7 @@
   intl: ^0.18.1
   flutter_staggered_grid_view: ^0.4.1
   transparent_image: ^2.0.1
-![2a58ff32-0bc9-4dc0-a40d-cc6d6748fa93](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/b268931f-2056-4038-a11a-801fc39d75cf | width=100)
+![2a58ff32-0bc9-4dc0-a40d-cc6d6748fa93 | width=100](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/b268931f-2056-4038-a11a-801fc39d75cf)
 ![9db740b8-fa67-47f5-b17d-f38955de1d38](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/81829dad-e02a-4b33-9439-4816ca844cca)
 ![8271c518-3269-4eaf-a049-cb319d436750](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/83d0e0c8-ace8-4899-916b-7a901230af63)
 ![ed62245e-7742-4863-bb87-529de62c3882](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/6a7227b3-cb9a-4031-a7ac-77e2b283b42f)
