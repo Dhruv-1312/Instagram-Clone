@@ -15,13 +15,21 @@
   intl: ^0.18.1
   flutter_staggered_grid_view: ^0.4.1
   transparent_image: ^2.0.1
-
   
-![2a58ff32-0bc9-4dc0-a40d-cc6d6748fa93 | 320x271](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/b268931f-2056-4038-a11a-801fc39d75cf)
-![9db740b8-fa67-47f5-b17d-f38955de1d38](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/81829dad-e02a-4b33-9439-4816ca844cca)
-![8271c518-3269-4eaf-a049-cb319d436750](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/83d0e0c8-ace8-4899-916b-7a901230af63)
-![ed62245e-7742-4863-bb87-529de62c3882](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/6a7227b3-cb9a-4031-a7ac-77e2b283b42f)
-![8ba070c1-9210-4dd5-8d08-67ba981ae78c](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/b2b8de23-4f6a-4d0e-a3d8-66043dedb6ea)![d4e2a913-b624-4c41-9451-e38d7561d2df](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/6d79d9b2-669e-4d3d-b2f6-014472c284b0)
-![c4177721-a6fc-433e-a905-4716ff1dbeac](https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/9fd649ff-29a8-4b1f-b5bf-310d34255485)
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/d10674af-eb7f-437b-9744-b1bcdf10368a" width="100" height="180">
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/c67ca7bd-cfce-4ca7-a24b-0ae730cfbf7a" width="100" height="180">
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/50014a24-c034-4cee-9e80-51854d3e4108" width="100" height="180">
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/f9269403-9f85-48df-82d9-b956ce05982e" width="100" height="180">
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/9bb2d5a3-f993-4f0d-9842-f8703e9ffd77" width="100" height="180">
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/c759d5df-5312-4547-a14b-30ea7102f2ec" width="100" height="180">
+
+<img src="https://github.com/Dhruv-1312/Instagram-Clone/assets/117975448/82868a16-b2c3-4e86-b5a6-8153e1926327" width="100" height="180">
+
 
 
